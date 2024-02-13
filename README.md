@@ -1,4 +1,4 @@
-# JBL-SoundTgr
+# JBL-SoundTgr (JBL Sound Triggerer)
 Simple iOS app that automatically finds, connects to, and sends a command to play a private sound effect
 
 ![Demo Screenshot 1](https://github.com/XboxOneSogie720/JBL-SoundTgr/blob/main/Images/IMG_0005.PNG)
